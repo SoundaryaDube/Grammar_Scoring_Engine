@@ -1,6 +1,7 @@
-# grammer_scoring-_engine-NLP-
+grammer_scoring-_engine-NLP-
 
-Grammar Scoring Engine
+# Grammar Scoring Engine
+
 The objective is to build a model that takes a 45-60 second spoken audio file (.wav) as input and outputs a continuous grammar score from 0 to 5.
 
 The entire solution, from preprocessing to the final report, is contained within the shl_assessment.ipynb notebook.
