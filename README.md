@@ -1,5 +1,3 @@
-grammer_scoring-_engine-NLP-
-
 # Grammar Scoring Engine
 
 The objective is to build a model that takes a 45-60 second spoken audio file (.wav) as input and outputs a continuous grammar score from 0 to 5.
@@ -96,14 +94,14 @@ Phase 3 (Model Training): This step trains the 5-fold CV model and prints the fi
 
 Phase 4 (Submission): This step generates the final submission.csv file.
 
-📈 Evaluation
+Evaluation
 The model's performance is evaluated using Root Mean Squared Error (RMSE).
 
 Compulsory Training RMSE (from 5-Fold Cross-Validation): [INSERT YOUR RMSE SCORE HERE]
 
 (You will get this number from the output of your training cell.)
 
-📁 Project Structure
+Project Structure
 .
 ├── audios_test/                # Test audio files
 ├── audios_train/               # Train audio files
